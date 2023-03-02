@@ -5,9 +5,11 @@ First download Salesforce CLI from Salesforce Site.
 
 Download VS Code from Microsoft Site.
 
-Download Salesforce Extension Pack Extension in VS Code.
+Install below extensions in VS Code
 
-Download json vs code extension.
+Salesforce Extension Pack
+
+json - for buitify JSON 
 
 ESLint
 
